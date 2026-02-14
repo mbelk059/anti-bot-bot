@@ -1,7 +1,7 @@
 # Bot Detection System
 
-**Team:** Anti-Bot Bot
-**Competition:** McHacks 2026 Bot or Not Challenge
+**Team:** Anti-Bot Bot <br>
+**Competition:** McHacks 2026 Bot or Not Challenge <br>
 **Languages:** English & French
 
 ---
@@ -61,14 +61,7 @@ Final prediction: averaged probability across all models.
 
 ## Performance
 
-| Dataset | Language | Bots | Detected | Precision | Recall | Score   |
-| ------- | -------- | ---- | -------- | --------- | ------ | ------- |
-| 30      | English  | 66   | 66       | 100%      | 100%   | 264/264 |
-| 31      | French   | 27   | 27       | 100%      | 100%   | 108/108 |
-| 32      | English  | 63   | 63       | 100%      | 100%   | 252/252 |
-| 33      | French   | 28   | 28       | 100%      | 100%   | 112/112 |
-
-**Total: 736/736 points (perfect scores on all practice datasets)**
+Achieved perfect scores on all practice datasets during development and testing phase.
 
 ---
 
